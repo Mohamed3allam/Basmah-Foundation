@@ -21,6 +21,10 @@ This website is a simple, one-page application built using React and Styled Comp
 * React: A JavaScript library for building user interfaces
 * Styled Components: A library for styling React components using CSS-in-JS
 
+## Known Issues
+
+The website may experience a long loading time due to the large images used. We are currently working on optimizing the images to improve the loading speed.
+
 ## Getting Started
 
 To run this project locally, follow these steps:
