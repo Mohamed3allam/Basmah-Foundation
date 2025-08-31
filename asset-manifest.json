@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Basmah-Foundation/static/css/main.d246efd9.chunk.css",
+    "main.js": "/Basmah-Foundation/static/js/main.e67bfaa6.chunk.js",
+    "main.js.map": "/Basmah-Foundation/static/js/main.e67bfaa6.chunk.js.map",
+    "runtime-main.js": "/Basmah-Foundation/static/js/runtime-main.c25723e9.js",
+    "runtime-main.js.map": "/Basmah-Foundation/static/js/runtime-main.c25723e9.js.map",
+    "static/js/2.e57350cc.chunk.js": "/Basmah-Foundation/static/js/2.e57350cc.chunk.js",
+    "static/js/2.e57350cc.chunk.js.map": "/Basmah-Foundation/static/js/2.e57350cc.chunk.js.map",
+    "index.html": "/Basmah-Foundation/index.html",
+    "static/css/main.d246efd9.chunk.css.map": "/Basmah-Foundation/static/css/main.d246efd9.chunk.css.map",
+    "static/js/2.e57350cc.chunk.js.LICENSE.txt": "/Basmah-Foundation/static/js/2.e57350cc.chunk.js.LICENSE.txt",
+    "static/media/Bareeq_p.ea821eb6.png": "/Basmah-Foundation/static/media/Bareeq_p.ea821eb6.png",
+    "static/media/App.css": "/Basmah-Foundation/static/media/Copy_of_Brush_Stroke.fddb88d8.svg",
+    "static/media/Elaf_p.93e4ddbd.png": "/Basmah-Foundation/static/media/Elaf_p.93e4ddbd.png",
+    "static/media/Header1.2cf413ee.png": "/Basmah-Foundation/static/media/Header1.2cf413ee.png",
+    "static/media/HeaderWithoutLogoImg.01922e88.jpg": "/Basmah-Foundation/static/media/HeaderWithoutLogoImg.01922e88.jpg",
+    "static/media/Janan_p.8fce6a4e.png": "/Basmah-Foundation/static/media/Janan_p.8fce6a4e.png",
+    "static/media/Kawen_p.4c9a1c87.png": "/Basmah-Foundation/static/media/Kawen_p.4c9a1c87.png",
+    "static/media/Marsah_p.2eade03e.png": "/Basmah-Foundation/static/media/Marsah_p.2eade03e.png",
+    "static/media/TextboxImg.b025a8c9.svg": "/Basmah-Foundation/static/media/TextboxImg.b025a8c9.svg",
+    "static/media/bareeq_s.642ca791.jpg": "/Basmah-Foundation/static/media/bareeq_s.642ca791.jpg",
+    "static/media/elaf_s.704e0a52.jpg": "/Basmah-Foundation/static/media/elaf_s.704e0a52.jpg",
+    "static/media/footer_logo.a1e297d2.png": "/Basmah-Foundation/static/media/footer_logo.a1e297d2.png",
+    "static/media/janan_s.d79c7d66.jpg": "/Basmah-Foundation/static/media/janan_s.d79c7d66.jpg",
+    "static/media/kawen_s.7128c753.jpg": "/Basmah-Foundation/static/media/kawen_s.7128c753.jpg",
+    "static/media/marsa_s.fb9df4e1.jpg": "/Basmah-Foundation/static/media/marsa_s.fb9df4e1.jpg",
+    "static/media/websiteVideo.b9c2442b.mp4": "/Basmah-Foundation/static/media/websiteVideo.b9c2442b.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c25723e9.js",
+    "static/js/2.e57350cc.chunk.js",
+    "static/css/main.d246efd9.chunk.css",
+    "static/js/main.e67bfaa6.chunk.js"
+  ]
+}
