@@ -36,22 +36,22 @@ const Loader = styled.div`
 function App() {
   const [pageLoaded, setPageLoaded] = useState(false)
 
-  useEffect(() => {
-    if (document.readyState === 'complete') {
-      setTimeout(() => {
+  // useEffect(() => {
+  //   if (document.readyState === 'complete') {
+  //     setTimeout(() => {
 
-        setPageLoaded(true)
-      }, 1000)
-    }
-  }, [])
+  //       setPageLoaded(true)
+  //     }, 1000)
+  //   }
+  // }, [])
 
   FirebaseActivation();
 
   return (
     <>
-      <LoaderDiv style={{ opacity: pageLoaded ? 0 : 1 }}>
-        <Loader></Loader>
-      </LoaderDiv>
+      // <LoaderDiv style={{ opacity: pageLoaded ? 0 : 1 }}>
+      //   <Loader></Loader>
+      // </LoaderDiv>
       <div style={{ transition: '0.3s all ease-in-out', opacity: pageLoaded ? 1 : 0 }}>
 
         <Header />
